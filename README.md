@@ -1,7 +1,7 @@
 # Cpp-Fundamentals
 
 ## Description
-This repository contains my practice projects and exercises while learning the fundamentals of C++. It covers the basics of programming including:
+This repository contains my practice projects and exercises while learning the fundamentals of C++. It covers the basics of programming including: 
 
 - `if` statements and conditional logic
 - Loops (`for`, `while`, `do-while`)
